@@ -1,0 +1,30 @@
+Snapshot的一个 NFT，值得去mint个
+在op网，我花了1.25u
+https://snapshot.mirror.xyz/nft/0x1868909aD8eFAe87FD0Fbc6B0F78975AEc10B7bA/0
+
+
+
+
+LayerZero 是一种全链互操作性协议，可以在不同的链之间传输资产，
+1；准备；https://pontem.network（一个扩展程序钱包，apt生态）
+2；开始交互；①真假eth互换；https://testnetbridge.com(选做）
+②Stargate跨链交互 ：https://stargate.finance/transfer
+买stg；https://1inch.io   STG合约地址（Arbitrum）：0x6694340fc020c5e6b96567843da2df01b2ce1eb6
+③跨链桥项目：
+Aptos bridge：https://theaptosbridge.com/bridge 
+
+④；传输交互；https://www.sushi.com/xswap  
+以下二个选做
+⑤跨链借贷： https://app.radiant.capital/#/markets • 交互Deposit/Borrow/Withdraw/Repay • Borrow的时候最好选择和Deposit不同的链来接收资产
+6，NFT跨链：https://galxestargatoronft.com/bridge
+• 可去Op上的NFT交易平台购买小鳄鱼NFT：https://qx.app/collection/0x2f05e799C61b600c65238a9DF060cABA63Db8E78
+layerzero的交互视频教程来了，未来我会录制手机版；链接: https://pan.baidu.com/s/1g1pHK-QqsxkkDqO06xmQow 提取码: sdwv  百度网盘
+
+
+
+
+3、https://www.nexon.finance/
+借贷的，zksync官方转推，有捐赠，感觉可以捐一波
+
+Nexon Finance 是一个借贷协议，已上线 zkSync Era 主网，旨在最大限度地提高资本效率，同时降低依赖外部流动性和预言机的风险。
+Nexon Finance 的 Token 名为 NXN，总量 9700 万枚，61% 作为社区激励，其余则分配给 DAO、团队、顾问和 ID0 活动。
